@@ -1,0 +1,22 @@
+@media (max-width: 375px) {
+.container {
+    max-width: 100%;
+}
+.inputForm h1 {
+    font-size: 42px;
+    padding: 35px;
+}
+.form-control {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 2rem;
+}
+.submit-style {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 30px;
+}
+h6.text-white {
+    font-size: 28px;
+}
+}
